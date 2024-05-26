@@ -1,0 +1,15 @@
+{
+  "name": "project04_currency_converter",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A best currency converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ziyan kk",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
